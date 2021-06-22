@@ -1,0 +1,15 @@
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\bin\Debug\CalculatorApp2.exe.config
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\bin\Debug\CalculatorApp2.exe
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\bin\Debug\CalculatorApp2.pdb
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.csprojAssemblyReference.cache
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\MainWindow.g.cs
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\App.g.cs
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2_MarkupCompile.cache
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2_MarkupCompile.lref
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\MainWindow.baml
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.g.resources
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.Properties.Resources.resources
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.csproj.GenerateResource.cache
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.csproj.CoreCompileInputs.cache
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.exe
+D:\проекты Visual Studio\CalculatorApp2\CalculatorApp2\obj\Debug\CalculatorApp2.pdb
